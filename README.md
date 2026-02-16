@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpan Pal</h1>
-<h3 align="center">AI/ML Enthusiast • Machine Learning Engineer • Data Science Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=DSA%20Problem%20Solver;Building%20Real%20World%20AI/ML%20Projects&center=true&width=550&height=45&color=00ADB5&size=22">
+</p>
+
 
 ---
 
@@ -106,21 +109,6 @@ MySQL • MongoDB • NoSQL
 - 🌐 [The Bits and Bytes of Computer Networking – Coursera](https://github.com/Arpanpal2005/Document/blob/main/1ms23ci016_networking.pdf)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arpanpal2005&theme=vue-dark&hide_border=false&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanpal2005&theme=vue-dark&hide_border=false&layout=compact&cache_seconds=1800" height="165"/>
-</p>
-
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Arpanpal2005&theme=vue-dark&hide_border=false"/>
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -128,5 +116,6 @@ MySQL • MongoDB • NoSQL
 </p>
 
 ---
+
 
 <h4 align="center">🚀 Always Learning • Always Building • Always Improving</h4>
