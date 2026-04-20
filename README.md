@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Arpan Pal</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DSA%20Problem%20Solver;Building%20Real%20World%20AI/ML%20Projects&center=true&width=550&height=45&color=00ADB5&size=22">
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Engineer;Deep%20Learning%20Enthusiast;Building%20Real%20World%20AI%20Systems&center=true&width=600&height=45&color=00ADB5&size=22">
+</p>
 
 ---
 
 ## 💫 About Me
 
-I am an AI/ML enthusiast passionate about building intelligent systems and solving complex real-world problems through technology. I enjoy exploring machine learning concepts, developing data-driven solutions, and applying algorithms to practical challenges.
+I am an aspiring **AI/ML Engineer** with hands-on experience building and deploying machine learning, deep learning, and NLP-based systems.
 
-As a critical problem solver, I focus on writing efficient, clean, and scalable code. I actively practice Data Structures and Algorithms to strengthen analytical thinking and improve my ability to approach problems from multiple perspectives.
+I focus on developing **scalable, explainable, and real-world AI solutions**, combining strong foundations in **Data Structures & Algorithms** with practical system design.
 
-I am continuously learning and experimenting with new technologies in Artificial Intelligence, Machine Learning, and software development, aiming to create impactful and practical solutions.
+- 🧠 Passionate about AI, Deep Learning & NLP  
+- ⚡ Strong problem-solving mindset (350+ DSA problems solved)  
+- 🚀 Interested in building impactful AI systems  
 
 ---
 
 ## 🎓 Education
 
-**Ramaiah Institute of Technology**, Bengaluru, India  
-🎓 B.Tech in Computer Science (2023 – 2027)  
-📊 GPA: 8.03
+**M.S. Ramaiah Institute of Technology**, Bengaluru  
+🎓 B.E. in Computer Science (AI & ML) (2023 – 2027)  
+📊 GPA: 8.0  
 
 ---
 
@@ -46,69 +48,65 @@ I am continuously learning and experimenting with new technologies in Artificial
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
-C • Java • Python • JavaScript
+C • Java • Python • JavaScript  
 
-### 📚 Libraries & Frameworks
-NumPy • Pandas • Matplotlib • OpenCV • scikit-learn • Streamlit
+### 🤖 AI / ML / DL
+NumPy • Pandas • Scikit-learn • TensorFlow • Keras • OpenCV • NLTK  
 
-### 🌐 Web Technologies
-HTML • CSS
+### 🧠 Concepts
+Machine Learning • Deep Learning • NLP • Transfer Learning • XAI • DSA  
 
-### 🧠 Core Concepts
-Machine Learning • Natural Language Processing (NLP) • TF-IDF • Model Evaluation • Data Structures & Algorithms
+### 🌐 Web & Deployment
+HTML • CSS • Streamlit • FastAPI • Gradio  
 
 ### 🛠 Tools & Platforms
-Git • GitHub • Anaconda
+Git • GitHub • Hugging Face • AWS Academy • Anaconda • Ollama  
 
 ### 🗄 Databases
-MySQL • MongoDB • NoSQL
+MySQL • MongoDB • NoSQL  
 
 ---
 
 ## 🚀 Projects
 
-### 🎬 [Movie Recommendation System](https://github.com/Arpanpal2005/Movie-recommendation-system)
+### 🎬 Movie Recommendation System
+🔗 https://github.com/Arpanpal2005/Movie-recommendation-system  
 
-**Tech Stack:** Python, scikit-learn, Streamlit, NLP, NumPy, Pandas  
-
-- Developed a content-based movie recommendation system using TF-IDF vectorization and cosine similarity.
-- Designed a preprocessing pipeline to convert raw movie metadata into numerical feature vectors.
-- Precomputed similarity matrices for fast inference and improved performance.
-- Deployed as a Streamlit web application with real-time movie poster integration using TMDB API.
+- Built a content-based recommendation system using **TF-IDF & cosine similarity**
+- Designed preprocessing pipeline for feature extraction  
+- Deployed as a **Streamlit app with TMDB API integration**
 
 ---
 
-### 📰 [Fake News Detection System](https://github.com/Arpanpal2005/Fake_News_detector)
+### 🧠 Brain Tumor Detection System
+🔗 https://huggingface.co/spaces/Arpan2005/brain-tumor-detector  
 
-**Tech Stack:** Python, NumPy, Pandas, scikit-learn, NLP, Streamlit  
-
-- Built an end-to-end machine learning pipeline to classify news articles as real or fake.
-- Implemented text preprocessing and TF-IDF feature extraction.
-- Used Logistic Regression for classification and evaluated performance using standard metrics.
-- Developed an interactive Streamlit interface for real-time predictions with confidence scores.
-
----
-
-### 🖼 [Image-to-Text Converter](https://github.com/Arpanpal2005/image-to-Text-converter)
-
-**Tech Stack:** Python, OpenCV, EasyOCR, Tkinter  
-
-- Built a desktop-based OCR application to extract text from images.
-- Applied image preprocessing techniques such as grayscale conversion and noise reduction.
-- Improved OCR accuracy using OpenCV and EasyOCR.
-- Designed a lightweight graphical interface using Tkinter for better usability.
+- Developed deep learning model using **Transfer Learning (Xception)**  
+- Implemented **Grad-CAM for explainability (XAI)**  
+- Generated automated **medical reports (PDF)**  
+- Deployed using **Gradio on Hugging Face Spaces**
 
 ---
 
+### 🤖 AI Interviewer
+🔗 https://github.com/Arpanpal2005/ai-interviewer  
+
+- Built a **resume-based AI interviewer system**  
+- Used **LLM (Ollama)** for real-time answer evaluation  
+- Generated structured feedback and performance reports  
+
+---
 ## 📜 Certifications
 
-- 📘 [Data Structures and Algorithms – Infosys](https://github.com/Arpanpal2005/Document/blob/main/info%20ofspring.pdf)
-- ☁️ [AWS Academy Graduate – Machine Learning Foundations](https://github.com/Arpanpal2005/Document/blob/main/AWS_Academy_Graduate___Machine_Learning_Foundations___Training_Badge_Badge20251204-31-lseasp.pdf)
-- 🍃 [MongoDB – Infosys](https://github.com/Arpanpal2005/Document/blob/main/arpan-pal%20mongo.pdf)
-- 🤖 [Machine Learning with scikit-learn – Infosys](https://github.com/Arpanpal2005/Document/blob/main/info_python1.pdf)
-- 🌐 [The Bits and Bytes of Computer Networking – Coursera](https://github.com/Arpanpal2005/Document/blob/main/1ms23ci016_networking.pdf)
+- AWS Academy – Machine Learning Foundations  
+- AWS Academy – Machine Learning for NLP  
+- Machine Learning with Scikit-learn – Infosys  
+- MongoDB – Infosys  
+- Computer Networking – Coursera  
+- DeepMind AI Research – Google Cloud  
 
 ---
+
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -116,6 +114,5 @@ MySQL • MongoDB • NoSQL
 </p>
 
 ---
-
 
 <h4 align="center">🚀 Always Learning • Always Building • Always Improving</h4>
