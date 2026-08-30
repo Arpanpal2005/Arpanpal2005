@@ -2,9 +2,9 @@
 
 <table border="0">
 <tr>
-<td><img src="assets/steve-left.png" width="140"/></td>
+<td><img src="https://raw.githubusercontent.com/Arpanpal2005/assets-/main/steve-left.png" width="140"/></td>
 <td width="400"></td>
-<td><img src="assets/steve-right.png" width="140"/></td>
+<td><img src="https://raw.githubusercontent.com/Arpanpal2005/assets-/main/steve-right.png" width="140"/></td>
 </tr>
 </table>
 
